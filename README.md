@@ -1,4 +1,5 @@
 # test-task-unity
+Unity 2020.3.40f1
 
 Application for android. A circle is displayed on the stage.
 When you click on any point of the screen - the circle moves alternately through all the clicked points. 
